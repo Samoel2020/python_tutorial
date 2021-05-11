@@ -6,4 +6,3 @@
 # plt.imshow(arr)
 # plt.show()
 
-print("Hello, World!")
